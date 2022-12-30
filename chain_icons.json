@@ -201,9 +201,9 @@
 }, {
   "name": "songbird",
   "icons": [{
-    "url": "ipfs://QmYxcrbb7EoXisMQN9KqSoUqbjctV482nyfyWNvPQebdon",
-    "width": 512,
-    "height": 719,
+    "url": "ipfs://QmXyvnrZY8FUxSULfnKKA99sAEkjAHtvhRx5WeHixgaEdu",
+    "width": 382,
+    "height": 382,
     "format": "png"
   }]
 }, {
@@ -524,6 +524,14 @@
     "url": "ipfs://bafkreid32bybgacpg7v3rrpq56oplhegmoyzhygzbvykkigv62f5a3iltu",
     "width": 670,
     "height": 175,
+    "format": "png"
+  }]
+}, {
+  "name": "edexa",
+  "icons": [{
+    "url": "ipfs://QmSgvmLpRsCiu2ySqyceA5xN4nwi7URJRNEZLffwEKXdoR",
+    "width": 1028,
+    "height": 1042,
     "format": "png"
   }]
 }, {
@@ -1001,9 +1009,17 @@
 }, {
   "name": "flare",
   "icons": [{
-    "url": "ipfs://QmebGy9pJdCSSg1SEdZ7uzaRxgEPHdGxbvogMREs4dV73X",
-    "width": 512,
-    "height": 512,
+    "url": "ipfs://QmevAevHxRkK2zVct2Eu6Y7s38YC4SmiAiw9X7473pVtmL",
+    "width": 382,
+    "height": 382,
+    "format": "png"
+  }]
+}, {
+  "name": "mythical",
+  "icons": [{
+    "url": "ipfs://bafkreihru6cccfblrjz5bv36znq2l3h67u6xj5ivtc4bj5l6gzofbgtnb4",
+    "width": 350,
+    "height": 350,
     "format": "png"
   }]
 }, {
@@ -1135,6 +1151,14 @@
     "format": "png"
   }]
 }, {
+  "name": "vention",
+  "icons": [{
+    "url": "ipfs://QmcNepHmbmHW1BZYM3MFqJW4awwhmDqhUPRXXmRnXwg1U4",
+    "width": 250,
+    "height": 250,
+    "format": "png"
+  }]
+}, {
   "name": "cube",
   "icons": [{
     "url": "ipfs://QmbENgHTymTUUArX5MZ2XXH69WGenirU3oamkRD448hYdz",
@@ -1247,6 +1271,22 @@
     "format": "png"
   }]
 }, {
+  "name": "coston2",
+  "icons": [{
+    "url": "ipfs://QmZhAYyazEBZSHWNQb9uCkNPq2MNTLoW3mjwiD3955hUjw",
+    "width": 382,
+    "height": 382,
+    "format": "png"
+  }]
+}, {
+  "name": "ventionTestnet",
+  "icons": [{
+    "url": "ipfs://QmcNepHmbmHW1BZYM3MFqJW4awwhmDqhUPRXXmRnXwg1U4",
+    "width": 250,
+    "height": 250,
+    "format": "png"
+  }]
+}, {
   "name": "subscan",
   "icons": [{
     "url": "ipfs://Qma2GfW5nQHuA7nGqdEfwaXPL63G9oTwRTQKaGTfjNtM2W",
@@ -1292,6 +1332,22 @@
     "url": "ipfs://QmNekc5gpyrQkeDQcmfJLBrP5fa6GMarB13iy6aHVdQJDU",
     "width": 1024,
     "height": 768,
+    "format": "png"
+  }]
+}, {
+  "name": "jbc",
+  "icons": [{
+    "url": "ipfs://QmZRBRh7GNbG3Ha9cT49pAFLJUQFhPZNAtG5ukRLXw1fpV",
+    "width": 800,
+    "height": 800,
+    "format": "svg"
+  }]
+}, {
+  "name": "coston",
+  "icons": [{
+    "url": "ipfs://QmW7Ljv2eLQ1poRrhJBaVWJBF1TyfZ8QYxDeELRo6sssrj",
+    "width": 382,
+    "height": 382,
     "format": "png"
   }]
 }, {
@@ -1391,6 +1447,14 @@
     "format": "png"
   }]
 }, {
+  "name": "ontology",
+  "icons": [{
+    "url": "ipfs://bafkreigmvn6spvbiirtutowpq6jmetevbxoof5plzixjoerbeswy4htfb4",
+    "width": 400,
+    "height": 400,
+    "format": "png"
+  }]
+}, {
   "name": "SUR",
   "icons": [{
     "url": "ipfs://QmbUcDQHCvheYQrWk9WFJRMW5fTJQmtZqkoGUed4bhCM7T",
@@ -1428,6 +1492,14 @@
     "url": "ipfs://Qmc9N7V8CiLB4r7FEcG7GojqfiGGsRCZqcFWCahwMohbDW",
     "width": 267,
     "height": 300,
+    "format": "png"
+  }]
+}, {
+  "name": "dsc",
+  "icons": [{
+    "url": "ipfs://QmSgzwKnJJjys3Uq2aVVdwJ3NffLj3CXMVCph9uByTBegc",
+    "width": 256,
+    "height": 256,
     "format": "png"
   }]
 }, {
@@ -1500,6 +1572,14 @@
     "url": "ipfs://QmWSbMuCwQzhBB6GRLYqZ87n5cnpzpYCehCAMMQmUXj4mm",
     "width": 512,
     "height": 512,
+    "format": "png"
+  }]
+}, {
+  "name": "smarthost",
+  "icons": [{
+    "url": "ipfs://QmTrLGHyQ1Le25Q7EgNSF5Qq8D2SocKvroDkLqurdBuSQQ",
+    "width": 1655,
+    "height": 1029,
     "format": "png"
   }]
 }, {
