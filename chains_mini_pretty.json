@@ -1763,7 +1763,7 @@
     "symbol": "MCD",
     "decimals": 18
   },
-  "rpc": ["https://u0zpw2zdzz:uf4y-ZGiQP_CJJgY6Vea2mSaeXOa1vFvfQ1PZhaDQ9M@u0iclv2dgh-u0jlczjhef-rpc.us0-aws.kaleido.io/"],
+  "rpc": ["https://rpc2.siriusnet.io"],
   "faucets": [],
   "infoURL": "https://siriusnet.io"
 }, {
@@ -4926,6 +4926,19 @@
   "faucets": [],
   "infoURL": "https://nahmii.io"
 }, {
+  "name": "Chain Verse Mainnet",
+  "chainId": 5555,
+  "shortName": "cverse",
+  "networkId": 5555,
+  "nativeCurrency": {
+    "name": "Oasys",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.chainverse.info"],
+  "faucets": [],
+  "infoURL": "https://chainverse.info"
+}, {
   "name": "Syscoin Tanenbaum Testnet",
   "chainId": 5700,
   "shortName": "tsys",
@@ -5316,18 +5329,18 @@
   "faucets": [],
   "infoURL": "https://alph.network"
 }, {
-  "name": "Ambros Chain Testnet",
+  "name": "XANAChain",
   "chainId": 8888,
-  "shortName": "ambrostestnet",
+  "shortName": "XANAChain",
   "networkId": 8888,
   "nativeCurrency": {
-    "name": "AMBROS",
-    "symbol": "AMBROS",
+    "name": "XETA",
+    "symbol": "XETA",
     "decimals": 18
   },
-  "rpc": ["https://api.testnet.ambros.network"],
+  "rpc": ["https://mainnet.xana.net/rpc"],
   "faucets": [],
-  "infoURL": "https://test.ambros.network"
+  "infoURL": "https://xanachain.xana.net/"
 }, {
   "name": "Vyvo Smart Chain",
   "chainId": 8889,
@@ -6069,6 +6082,19 @@
   "rpc": ["https://www.hammerchain.io/rpc"],
   "faucets": [],
   "infoURL": "https://www.hammerchain.io"
+}, {
+  "name": "Hertz Network Mainnet",
+  "chainId": 26600,
+  "shortName": "HTZ",
+  "networkId": 26600,
+  "nativeCurrency": {
+    "name": "Hertz",
+    "symbol": "HTZ",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet-rpc.hertzscan.com"],
+  "faucets": [],
+  "infoURL": "https://www.hertz-network.com"
 }, {
   "name": "OasisChain Mainnet",
   "chainId": 26863,
@@ -7662,11 +7688,11 @@
   "networkId": 534354,
   "nativeCurrency": {
     "name": "Ether",
-    "symbol": "ETH",
+    "symbol": "TSETH",
     "decimals": 18
   },
-  "rpc": ["https://prealpha.scroll.io/l2"],
-  "faucets": ["https://prealpha.scroll.io"],
+  "rpc": ["https://prealpha-rpc.scroll.io/l2"],
+  "faucets": ["https://prealpha.scroll.io/faucet"],
   "infoURL": "https://scroll.io"
 }, {
   "name": "Vision - Vpioneer Test Chain",
@@ -8019,6 +8045,19 @@
   "rpc": ["https://churchill-rpc.pepchain.io"],
   "faucets": [],
   "infoURL": "https://pepchain.io"
+}, {
+  "name": "Anduschain Mainnet",
+  "chainId": 14288640,
+  "shortName": "anduschain-mainnet",
+  "networkId": 14288640,
+  "nativeCurrency": {
+    "name": "DAON",
+    "symbol": "DEB",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.anduschain.io/rpc", "wss://rpc.anduschain.io/ws"],
+  "faucets": [],
+  "infoURL": "https://anduschain.io/"
 }, {
   "name": "Plian Testnet Main",
   "chainId": 16658437,
